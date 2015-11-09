@@ -11,3 +11,9 @@
 5. Install Docker through daocloud.io
 
 6. Vagrant
+
+7. Install Chinese Pinyin by below command
+```
+    sudo apt-get install ibus-pinyin
+    sudo apt-get install ibus-sunpinyin
+```
